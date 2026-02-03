@@ -66,5 +66,8 @@ Testowy endpoint:
 W projekcie jest jedna prosta metoda oznaczona `@Scheduled` (codziennie o 08:00),
 która wysyła mail do klientów nieaktywnych przez 30 dni.
 
+## Pokrycie kodu (z raportu Jacoco)
+85%
+
 
 

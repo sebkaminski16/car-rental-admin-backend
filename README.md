@@ -2,7 +2,7 @@
 
 Backend REST API do obsługi wypożyczalni samochodów **dla administratorów** (bez autentykacji - chociaż w przyszłości przewiduje się jej dodanie).
 
-#### REPOZYTORIUM Z FRONTENDEM: https://www.google.com
+#### REPOZYTORIUM Z FRONTENDEM: https://github.com/sebkaminski16/car-rental-admin-frontend
 
 ## Technologie
 - Java 21
